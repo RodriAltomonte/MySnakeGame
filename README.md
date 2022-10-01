@@ -1,2 +1,2 @@
-# SnakePythonDemo
+# MySnakeGame
 Probando Pygame
